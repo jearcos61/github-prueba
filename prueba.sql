@@ -1,2 +1,2 @@
-select count(*) as q_reg
+select count(*) as cantidad_registros
 from advworks.humanresources
